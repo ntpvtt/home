@@ -1321,6 +1321,11 @@ form .cv-button {
 .blogcontainer p {
     margin-bottom: 30px;
 }
+.postdate h3 {
+    width: 100%;
+    padding:0;
+    margin: 0 0 0 -26px;
+}
 .blogcontainer .postdate {
     line-height: 1;
     padding: 20px 60px 20px 85px;
@@ -1352,6 +1357,7 @@ form .cv-button {
     z-index: 1;
     display: inline-block;
     margin: 0px;
+    display: none;
 }
 .blogcontainer .postcontent {
     padding: 40px 60px 40px 60px;
@@ -1363,7 +1369,7 @@ form .cv-button {
 .blog-img .blog-img-caption {
     display: inline-block;
     margin-top: 60px;
-    margin-bottom: 120px;
+    margin-bottom: 268px;
 }
 .blog-img .blog-img-caption h4{
     margin: 0px;
